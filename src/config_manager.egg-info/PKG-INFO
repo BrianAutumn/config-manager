@@ -1,0 +1,16 @@
+Metadata-Version: 2.2
+Name: config-manager
+Version: 0.1.0
+Summary: A Python configuration management package
+Author-email: Brian Autumn <Brian.J.Autumn@gmail.com>
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: pytest-sugar>=1.0.0; extra == "dev"
+
+# config-manager

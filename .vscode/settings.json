@@ -1,0 +1,5 @@
+{
+    "basedpyright.disableLanguageServices": true,
+    "windsurfPyright.disableLanguageServices": true,
+    "python.analysis.autoImportCompletions": true
+}

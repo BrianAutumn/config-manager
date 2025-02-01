@@ -1,0 +1,4 @@
+
+[dev]
+pytest>=7.0.0
+pytest-sugar>=1.0.0
